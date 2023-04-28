@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Backend Developer Student</h3>
 
-[![Resume](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]()
+[![Resume]([https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white](https://aleen42.github.io/badges/src/google_plus.svg))]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the32bitdude)&nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mrqwerr)&nbsp;
 
