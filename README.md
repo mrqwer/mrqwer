@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Backend Developer Student</h3>
 
-[![Resume]([https://img.shields.io/badge/Resume-%234A5F88.svg?style=for-the-badge&logo=habr&logoColor=4A5F88&color=f5f5f2](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white))]()
-[![Telegram]([https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=f5f5f2](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/the32bitdude)&nbsp;
+[![Resume](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the32bitdude)&nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mrqwerr)&nbsp;
 
 <!-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=f5f5f2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/mrqwerr) -->
