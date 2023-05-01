@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yerkebulan</h1>
-<h3 align="center">A person from Kazakhstan, who is passionate about backend development and machine learning</h3>
+<h3 align="center">A student, who is passionate about backend development and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrqwer&label=Profile%20views&color=0e75b6&style=flat" alt="mrqwer" /> </p>
 
