@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yerkebulan</h1>
+<h1 align="center">Hi there</h1>
 <h3 align="center">Interested in backend development and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrqwer&label=Profile%20views&color=0e75b6&style=flat" alt="mrqwer" /> </p>
